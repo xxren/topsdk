@@ -1,11 +1,11 @@
 {
-  "name": "syw0602/top-sdk",
+  "name": "xxren/topsdk",
   "description": "淘宝SDK",
   "license": "MIT",
   "authors": [
     {
-      "name": "syw0602",
-      "email": "syw0602@gmail.com"
+      "name": "xxren",
+      "email": "609997122@qq.com"
     }
   ],
   "minimum-stability": "stable",
