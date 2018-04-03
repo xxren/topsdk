@@ -1,0 +1,13 @@
+
+{
+    "name": "taobao/topsdk",
+    "description": "taobao topsdk",
+    "license":"MIT",
+    "keywords": ["taobao","sdk","laravel"],
+    "license": "MIT",
+    "autoload": {
+        "file":[
+            "TopSdk.php"
+        ]
+    }
+}
