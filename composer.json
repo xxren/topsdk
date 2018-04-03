@@ -8,8 +8,6 @@
       "email": "609997122@qq.com"
     }
   ],
-  "minimum-stability": "stable",
-  "require": {},
   "autoload": {
     "files": [
       "src/TopSdk.php"
