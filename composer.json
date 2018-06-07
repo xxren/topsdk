@@ -12,5 +12,6 @@
     "files": [
       "src/TopSdk.php"
     ]
-  }
+  },
+  "minimum-stability": "dev",
 }
