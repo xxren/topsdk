@@ -13,5 +13,5 @@
       "src/TopSdk.php"
     ]
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
 }
